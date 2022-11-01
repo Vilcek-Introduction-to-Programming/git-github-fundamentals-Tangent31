@@ -107,3 +107,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 I would lik to learn R language
 Hello, I have finished the intro to programming course
 Interesting!
+FUN
