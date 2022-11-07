@@ -1,14 +1,3 @@
----
-title: "Yanjun Tan-HW"
-author: "Yanjun Tan"
-date: "10/31/2022"
-output: github_document  
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## What I learn from GitHub
 
 Previously, I always use Prism to deal with the data so I don't have any experience in programming. I have heard about GitHub before but this is my first time to walk through it. GitHub is an Internet hosting service for software development and version control using Git. It is commonly used to host open source software development projects. The GitHub workflow is based on repository where the projects store. READMEs in the repository is the description of the file.Branch can be used to experiment with new ideas in the repository without affecting the original codes.Once users are ready to share, the branch can be merged into the 'main' branch of the repository by pull request. When users would like to share the changes they made, pull request will help. So far, everything is perfect and I will use it more often.
@@ -16,17 +5,3 @@ Previously, I always use Prism to deal with the data so I don't have any experie
 ## Good practice for computational reproducibility
 
 I think it would be helpful for computational reproducibility by keeping track of changes. People in the group can have access to the repository and they can change or experiment with the data on it. All of the changes will be recorded. Also, people can share changes by pulling requests. If we need the whole data, we can clone the repository to our desktop. To sum up, GitHub is a great way for dynamic sharing and cooperation platform for computational reproducibility.
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
